@@ -1,0 +1,33 @@
+1;Belinda Lipscomb ; Chant
+1;Melvin Gentry ; Chant, Guitare, Basse
+1;Kenneth Gant ; Basse
+1;Bill Simmons ; Multi-instruments
+1;Reginald Calloway ; Trompette
+1;Vincent Calloway ; Trombonne
+1;Bo Watson ; Synthetiseur
+1;Jeff Cooper ; Synthetiseur, Guitare
+1;Bobby Lovelace ; Percussions
+2;Alex Webster ; Basse
+2;Paul Mazurkiewicz ; Batterie
+2;Rob Barrett ; Guitare
+2;George "Corpsegrinder" Fisher ; Chant
+2;Pat O'Brien ; Guitare
+3;Billy Gibbons ; Chant, Guitare
+3;Dusty Hill ; Chant, Basse
+3;Frank Beard ; Batterie
+4;Klaus Meine ; Chant
+4;Rudolf Shencker; Guitare
+4;Matthias Jabs ; Guitare
+4;Francis Buchholz ; Basse
+4;Herman Rarbell; Batterie
+5;Serge Danet; Chant, Guitare, Banjo
+5;Renaud Detressan; Guitare, Choeurs
+5;Michel Banus; Guitare, Choeurs
+5;Anthony Masselin; Cornemuse, Flute
+5;Christophe Sonnic; Batterie
+5;Herve Le Guillou; Basse
+5;Jean-Paul Barriere; Clavier, Choeurs
+6;Bono; Chant
+6;The Edge; Guitare
+6;Adam Clayton ; Basse
+6;Larry Mullen Jr; Batterie
